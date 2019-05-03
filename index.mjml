@@ -1,0 +1,289 @@
+<mjml>
+  <mj-head>
+    <mj-title>MONTH YEAR</mj-title>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-style>
+      @media (min-width: 480px) {
+        .h1 {
+          line-height: 42px;
+        }
+      }
+
+      a {
+        color: #0768fd;
+        font-weight: bold;
+        text-decoration: none;
+      }
+      style="color:#0768fd;"
+
+      h3 {
+        color: #000;
+        font-size: 20px;
+      }
+
+      .box-shadow {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08);
+      }
+    </mj-style>
+
+    <!-- Attributes -->
+    <mj-attributes>
+      <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" font-weight="400" />
+
+      <!-- MJML Element Styles  -->
+      <mj-section background-color="#fff" padding-top="0px" />
+      <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#e9e9e9" />
+
+      <!-- Text -->
+      <mj-text padding-bottom="0px" font-size="16px" line-height="28px" color="#595959" align="center" />
+      <mj-class name="h1" padding-top="10px" color="#000" font-size="32px" font-weight="600" />
+      <mj-class name="h3" color="#000" font-weight="600" font-size="20px" />
+      <mj-class name="sub-header" color="#999" font-weight="600" padding-bottom="0px" />
+      <mj-class name="text--kudos" font-size="20px" line-height="32px" color="#444" font-weight="300" />
+      <mj-class name="text--kudos-signature" padding-bottom="20px" font-size="18px" font-weight="500" color="#444" />
+
+      <!-- Images -->
+      <mj-class name="inline-image" border-radius="4px" padding-right="8px" background-color="#005ff1" />
+
+      <!-- Spacing -->
+      <mj-class name="p-tb" padding-top="0px" padding-bottom="0px" />
+      <mj-class name="p-t" padding-top="0px" />
+      <mj-class name="p-b" padding-bottom="0px" />
+      
+      <mj-class name="border" style="border-radius: 4px; box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);" padding="0px" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#f8f9fb">
+    <!-- Start Header -->
+    <mj-section full-width="full-width" padding-bottom="5px" background-color="#f8f9fb">
+      <mj-group>
+        <mj-column vertical-align="middle">
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.pottermore.com/" padding-left="0px" width="36px" align="center" alt="Apollo Logo" src="https://via.placeholder.com/36/0e6f82/62aca0?Text=Digital.com" />
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" font-size="12px" padding-right="0px">
+            <a style="color:#595959; font-weight:normal;" data-anchor-id="NGQ5MGNhYzQtNWEyMC00NDU3LWJmZDEtNmU5NDg3ZjIxOGVk" href="">View email as muggle</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Header -->
+
+    <mj-wrapper padding-top="0px" border="solid 1px #e9e9e9" mj-class="p-b" css-class="box-shadow" mj-class="border">
+      <!-- Start Hero -->
+      <mj-section padding-top="0px">
+        <mj-column width="600px">
+          <mj-image alt="Header" padding="0" src="https://cdn.dribbble.com/users/963528/screenshots/2652131/hogwarts.png" />
+        </mj-column>
+      </mj-section>
+      <!-- End Hero -->
+
+
+      <!-- Start Text Content -->
+      <mj-section mj-class="p-t" padding-bottom="36px">
+        <mj-column width="550px" mj-class="p-b">
+          <mj-text mj-class="text--kudos">
+            “Shout out to <span style="color:#9e54b0; font-weight: bold;">Bacon</span> meatloaf andouille venison fatback leberkas, drumstick alcatra biltong buffalo shankle rump ham hock salami shank turducken.”
+          </mj-text>
+          <mj-text mj-class="text--kudos-signature">
+            &mdash;Pidgeon
+          </mj-text>
+          <mj-text mj-class="text--kudos">
+            “Shout out to <span style="color:#0768fd; font-weight: bold;">Bacon</span> kielbasa pastrami turducken pork filet mignon hamburger turkey alcatra, ham hock leberkas cow tri-tip capicola.”
+          </mj-text>
+          <mj-text mj-class="text--kudos-signature">
+            &mdash;Dog
+          </mj-text>
+          <mj-text mj-class="text--kudos">
+            “Shout out to <span style="color:#df216d; font-weight: bold;">Bacon</span> and <span style="color:#df216d; font-weight: bold;">Pork</span> pork belly short ribs tri-tip buffalo chuck cow shankle meatloaf cupim strip steak rump beef ribs.”
+          </mj-text>
+          <mj-text mj-class="text--kudos-signature">
+            &mdash;Chicken
+          </mj-text>
+          <mj-text mj-class="text--kudos">
+            “Shout out to <span style="color:#ff9300; font-weight: bold;">Bacon</span>  <span style="color:#ff9300; font-weight: bold;">Bacon</span> ipsum dolor amet brisket drumstick doner beef ribs sausage ham hock flank jerky tenderloin bresaola, <span style="color:#ff9300; font-weight: bold;">Pork</span> chop turkey ham tail pig venison chicken tongue shank prosciutto kevin tenderloin cupim jowl <span style="color:#ff9300; font-weight: bold;">Sausage</span>  bresaola capicola alcatra, chicken corned beef burgdoggen ham hock tri-tip pork belly.”
+          </mj-text>
+          <mj-text mj-class="text--kudos-signature">
+            &mdash;Turkey
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- End Text Content -->
+
+      <!-- Start Divider -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#e9e9e9" />
+        </mj-column>
+      </mj-section>
+      <!-- End Divider -->
+
+      <mj-section padding-top="25px" padding-bottom="0px">
+        <mj-column>
+          <mj-text mj-class="sub-header">
+            Subtitle
+          </mj-text>
+          <mj-text mj-class="h1" padding-top="5px" padding-bottom="24px">
+            Title
+          </mj-text>
+          <mj-image alt="UI Kit Updates" width="120px" padding="0" src="https://via.placeholder.com/120px/0e6f82/62aca0" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Start Text Content -->
+      <mj-section mj-class="p-tb">
+        <mj-column>
+          <mj-text mj-class="h3">
+            Updates
+          </mj-text>
+          <mj-text mj-class="p-t">
+            Updates Subheader
+          </mj-text>
+          <mj-text align="center">
+            <ul align="left" style="list-style: none; line-height: 32px">
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Added</strong> Chips</li>
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Modal button placement</li>
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> documentation and components on all data visualizations</li>
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Navigation bar drop-down arrow to be 4px away from text</li>
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Footer to use text links</li>
+              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Tooltips</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- End Text Content -->
+
+      <!-- Start Image -->
+      <mj-section mj-class="p-tb">
+        <mj-column>
+          <mj-image alt="View UI Kit" width="131px" href="https://sketch.cloud/signin" src="https://via.placeholder.com/131/0e6f82/62aca0?Text=Digital.com" />
+        </mj-column>
+      </mj-section>
+      <!-- End Image -->
+
+      <!-- Start Contact -->
+      <mj-section padding-bottom="40px" text-align="center">
+        <mj-column border-radius="25.5px" background-color="#f8f9fb" width="35%" vertical-align="middle">
+          <mj-table padding="5px 7px" line-height="1px" width="100%" color="#595959">
+            <tr align="center">
+              <td>
+                <img alt="DJ Avatar" width="32px" src="https://via.placeholder.com/32px/0e6f82/62aca0" />
+              </td>
+              <td>
+                &nbsp;&nbsp;Contact <a href="mailto:PERSON@DOMAIN.COM"><strong>Bacon</strong></a> for more info
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <!-- End Contact -->
+
+      <!-- Start Divider -->
+      <mj-section>
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+      <!-- End Divider -->
+
+      
+
+      <!-- End Divider -->
+      <!-- Start Heading -->
+      <mj-section>
+        <mj-column>
+          <mj-text mj-class="sub-header">
+            Get to know
+          </mj-text>
+          <mj-image alt="Ryan Avatar" width="120px" src="https://via.placeholder.com/120px/0e6f82/62aca0" />
+          <mj-text mj-class="h1" padding-bottom="0px">
+            Gumdrop
+          </mj-text>
+          <mj-text>
+            Candy Builder
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- End Heading -->
+
+      <!-- Start Text Content -->
+      <mj-section padding-top="0px" padding-bottom="0px">
+        <mj-column width="550px">
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">Where did you grow up?</strong>
+            <br />
+            Chocolate cotton candy lemon drops bonbon tootsie roll chupa chups gummies marzipan liquorice. Ice cream pie marzipan liquorice jelly marzipan. Ice cream brownie croissant fruitcake tart brownie pastry cupcake lemon drops. Toffee chocolate bar powder chocolate cake cake pastry pudding. Lemon drops danish toffee sweet roll. Wafer tootsie roll jujubes.
+          </mj-text>
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">How did you get into JOBTITLE?</strong>
+            <br />
+            Bonbon cookie chocolate bar jelly-o cake muffin jelly-o soufflé jujubes. Fruitcake toffee tootsie roll ice cream danish powder wafer tootsie roll bear claw. Jelly beans marzipan chocolate cake marshmallow. Wafer tiramisu jelly chupa chups apple pie halvah chupa chups sweet tiramisu.
+          </mj-text>
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">What’s your spirit animal?</strong>
+            <br />
+            Pudding candy canes danish carrot cake cookie cheesecake cupcake pie. Muffin cake sesame snaps apple pie tart halvah marshmallow danish oat cake. Cake candy canes dragée cheesecake brownie macaroon candy canes.
+          </mj-text>
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">Do you have a pet peeve?</strong>
+            <br />
+            Lemon drops tiramisu donut apple pie marshmallow carrot cake cotton candy fruitcake cupcake. Liquorice dessert apple pie topping chocolate. Tiramisu chocolate soufflé wafer.
+          </mj-text>
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">What’s your favorite place to eat in Seattle?</strong>
+            <br />
+            Muffin gummi bears tart sweet cotton candy <a href="https://goo.gl/maps/d4YsCee5kq8V9Kc38">cupcake</a> jelly beans. Jelly-o soufflé caramels sesame snaps donut jelly fruitcake sesame snaps lemon drops. <a href="https://goo.gl/maps/MmaeDuDoJkVmTSWj8">Jelly-o </a> chocolate tiramisu chupa chups gummies brownie.  
+          </mj-text>
+          <mj-text align="left" padding-bottom="15px">
+            <strong style="color:#000; font-weight: 600;">Tell me a fun fact about you.</strong>
+            <br />
+            Liquorice fruitcake tootsie roll toffee. Fruitcake gummi bears jelly beans. Gingerbread pie liquorice chocolate cake jujubes oat cake oat cake tiramisu icing. Gummi bears cake wafer. Croissant caramels sweet roll apple pie wafer halvah jelly pie. Gummies cotton candy sugar plum gingerbread. Marzipan jelly wafer pie chocolate bar cupcake soufflé cake. Sweet roll toffee marshmallow cake powder.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section mj-class="p-t">
+        <mj-column width="520px">
+          <mj-text padding-top="20px" color="#000" font-weight="600">
+            Connect with Gumdrop
+          </mj-text>
+          <mj-social font-size="15px" icon-size="32px" mode="horizontal">
+            <mj-social-element name="instagram" href="">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="">
+            </mj-social-element>
+            <mj-social-element src="https://d1deew00zd4rt0.cloudfront.net/internal/may-2019/vimeo.jpg" href="">
+            </mj-social-element>
+          </mj-social>
+          <mj-spacer height="5px"></mj-spacer>
+        </mj-column> <!-- Button End -->
+      </mj-section>
+      <!-- End Text Content -->
+
+      <mj-section padding-bottom="40px">
+        <mj-column width="520px" background-color="#f8f9fb">
+          <mj-text color="#000" font-weight="500" padding="35px 110px 0px">
+            Have feedback or something to share in the next newsletter?
+          </mj-text>
+          <mj-image src="https://via.placeholder.com/125x50/0e6f82/62aca0" href="mailto:PERSON@DOMAIN.com" alt="Let us know" width="125px" />
+          <mj-spacer height="5px"></mj-spacer> 
+        </mj-column> <!-- Button End -->
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper>
+      <mj-section padding-top="15px" background-color="#f8f9fb">
+        <mj-column>
+          <mj-image href="https://www.iqvia.com/" width="100px" alt="IQVIA Logo" src="https://via.placeholder.com/100px/0e6f82/62aca0" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
