@@ -280,7 +280,7 @@
     <mj-wrapper>
       <mj-section padding-top="15px" background-color="#f8f9fb">
         <mj-column>
-          <mj-image href="https://www.iqvia.com/" width="100px" alt="IQVIA Logo" src="https://via.placeholder.com/100px/0e6f82/62aca0" />
+          <mj-image href="" width="100px" alt="Logo" src="https://via.placeholder.com/100px/0e6f82/62aca0" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
