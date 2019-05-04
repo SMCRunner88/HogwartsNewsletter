@@ -4,6 +4,8 @@
     <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
     <mj-font name="Garamond" href="https://fonts.googleapis.com/css?family=Eb+Garamond" />
     <mj-font name="Hand" href="https://fonts.googleapis.com/css?family=Just+Another+Hand" />
+    <mj-font name="Magorian" href="https://fonts.googleapis.com/css?family=Average" />
+    
     <mj-style>
       @media (min-width: 480px) {
         .h1 {
@@ -38,9 +40,9 @@
 
       <!-- Text -->
       <mj-text padding-bottom="0px" font-size="16px" line-height="28px" color="#595959" align="center" />
-      <mj-class name="h1" padding-top="10px" color="#000" font-size="32px" font-weight="600" line-height="35px"/>
+      <mj-class name="h1" font-family="Magorian" padding-top="10px" color="#000" font-size="32px" font-weight="600" line-height="35px"/>
       <mj-class name="h3" color="#000" font-weight="600" font-size="20px" />
-      <mj-class name="sub-header" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
+      <mj-class name="sub-header" font-family="new" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
       <mj-class name="text--kudos" font-size="20px" line-height="32px" color="#444" font-weight="300" />
       <mj-class name="text--kudos-signature" padding-bottom="20px" font-size="18px" font-weight="500" color="#444" />
 
@@ -134,12 +136,12 @@
       <mj-section padding-top="25px" padding-bottom="0px">
         <mj-column>
           <mj-text mj-class="sub-header">
-            Subtitle
+            Defense Against the Dark Arts
           </mj-text>
           <mj-text mj-class="h1" padding-top="5px" padding-bottom="24px">
-            Title
+             Mountain Trolls
           </mj-text>
-          <mj-image alt="UI Kit Updates" width="120px" padding="0" src="https://via.placeholder.com/120px/38808F/FCE6BF" />
+          <mj-image alt="UI Kit Updates" width="150px" padding="0" src="https://vignette.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest?cb=20161129174923" />
         </mj-column>
       </mj-section>
 
@@ -153,14 +155,7 @@
             Updates Subheader
           </mj-text>
           <mj-text align="center">
-            <ul align="left" style="list-style: none; line-height: 32px">
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Added</strong> Chips</li>
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Modal button placement</li>
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> documentation and components on all data visualizations</li>
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Navigation bar drop-down arrow to be 4px away from text</li>
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Footer to use text links</li>
-              <li><span style="color:#00c221;">&#10004;</span> <strong>Updated</strong> Tooltips</li>
-            </ul>
+            
           </mj-text>
         </mj-column>
       </mj-section>
@@ -170,7 +165,7 @@
       <!-- Start Image -->
       <mj-section mj-class="p-tb">
         <mj-column>
-          <mj-image alt="View UI Kit" width="131px" href="https://sketch.cloud/signin" src="https://via.placeholder.com/131/38808F/FCE6BF?Text=Digital.com" />
+          <mj-image alt="View UI Kit" width="131px" href="https://via.placeholder.com/131/38808F/FCE6BF" />
         </mj-column>
       </mj-section>
       <!-- End Image -->
@@ -200,8 +195,6 @@
       </mj-section>
       <!-- End Divider -->
 
-      
-
       <!-- End Divider -->
       <!-- Start Heading -->
       <mj-section>
@@ -211,10 +204,10 @@
           </mj-text>
           <mj-image alt="Ryan Avatar" width="120px" src="https://via.placeholder.com/120px/38808F/FCE6BF" />
           <mj-text mj-class="h1" padding-bottom="0px">
-            Gumdrop
+            The Boy Who Lived
           </mj-text>
           <mj-text>
-            Candy Builder
+            First Year Student
           </mj-text>
         </mj-column>
       </mj-section>
@@ -226,17 +219,16 @@
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Where did you grow up?</strong>
             <br />
-            Chocolate cotton candy lemon drops bonbon tootsie roll chupa chups gummies marzipan liquorice. Ice cream pie marzipan liquorice jelly marzipan. Ice cream brownie croissant fruitcake tart brownie pastry cupcake lemon drops. Toffee chocolate bar powder chocolate cake cake pastry pudding. Lemon drops danish toffee sweet roll. Wafer tootsie roll jujubes.
+            In a cuboard under the stairs in Surrey. Ever since my aunt and uncle found out I got into Hogwarts though they've let me have my own room.
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
-            <strong style="color:#000; font-weight: 600;">How did you get into JOBTITLE?</strong>
+            <strong style="color:#000; font-weight: 600;">How did you find out you were a wizard?</strong>
             <br />
-            Bonbon cookie chocolate bar jelly-o cake muffin jelly-o soufflé jujubes. Fruitcake toffee tootsie roll ice cream danish powder wafer tootsie roll bear claw. Jelly beans marzipan chocolate cake marshmallow. Wafer tiramisu jelly chupa chups apple pie halvah chupa chups sweet tiramisu.
+            Oh that's a funny story! Hagrid the groundkeeper broke down a door in the middle of night and handed my letter and my birthday cake. My uncle angered him 
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
-            <strong style="color:#000; font-weight: 600;">What’s your spirit animal?</strong>
+            <strong style="color:#000; font-weight: 600;">What’s your favorite thing about Hogwarts?</strong>
             <br />
-            Pudding candy canes danish carrot cake cookie cheesecake cupcake pie. Muffin cake sesame snaps apple pie tart halvah marshmallow danish oat cake. Cake candy canes dragée cheesecake brownie macaroon candy canes.
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Do you have a pet peeve?</strong>
@@ -244,7 +236,7 @@
             Lemon drops tiramisu donut apple pie marshmallow carrot cake cotton candy fruitcake cupcake. Liquorice dessert apple pie topping chocolate. Tiramisu chocolate soufflé wafer.
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
-            <strong style="color:#000; font-weight: 600;">What’s your favorite place to eat in Seattle?</strong>
+            <strong style="color:#000; font-weight: 600;">What’s your favorite class?</strong>
             <br />
             Muffin gummi bears tart sweet cotton candy <a href="https://goo.gl/maps/d4YsCee5kq8V9Kc38">cupcake</a> jelly beans. Jelly-o soufflé caramels sesame snaps donut jelly fruitcake sesame snaps lemon drops. <a href="https://goo.gl/maps/MmaeDuDoJkVmTSWj8">Jelly-o </a> chocolate tiramisu chupa chups gummies brownie.  
           </mj-text>
@@ -259,7 +251,7 @@
       <mj-section mj-class="p-t">
         <mj-column width="520px">
           <mj-text padding-top="20px" color="#000" font-weight="600">
-            Connect with Gumdrop
+            Connect with HP
           </mj-text>
           <mj-social font-size="15px" icon-size="32px" mode="horizontal">
             <mj-social-element name="instagram" href="">
