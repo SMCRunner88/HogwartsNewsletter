@@ -1,7 +1,6 @@
 <mjml>
   <mj-head>
     <mj-title>Sorceror's Stone</mj-title>
-    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
     <mj-font name="Garamond" href="https://fonts.googleapis.com/css?family=Eb+Garamond" />
     <mj-font name="Hand" href="https://fonts.googleapis.com/css?family=Just+Another+Hand" />
     <mj-font name="Magorian" href="https://fonts.googleapis.com/css?family=Average" />
@@ -40,9 +39,9 @@
 
       <!-- Text -->
       <mj-text padding-bottom="0px" font-size="16px" line-height="28px" color="#595959" align="center" />
-      <mj-class name="h1" font-family="Magorian" padding-top="10px" color="#000" font-size="32px" font-weight="600" line-height="35px"/>
-      <mj-class name="h3" color="#000" font-weight="600" font-size="20px" />
-      <mj-class name="sub-header" font-family="new" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
+      <mj-class name="h1" font-family="Garamond" padding-top="10px" color="#000" font-size="32px" font-weight="400" line-height="35px"/>
+      <mj-class name="h3" color="#000" font-weight="400" font-size="20px" />
+      <mj-class name="sub-header" font-family="Garamond" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
       <mj-class name="text--kudos" font-size="20px" line-height="32px" color="#444" font-weight="300" />
       <mj-class name="text--kudos-signature" padding-bottom="20px" font-size="18px" font-weight="500" color="#444" />
 
@@ -91,7 +90,7 @@
       <!-- Start Text Content -->
       <mj-section mj-class="p-t" padding-bottom="36px">
         <mj-column width="550px" mj-class="p-b">
-          <mj-text mj-class="h1" font-family="new">
+          <mj-text mj-class="h1">
             Hogwarts School of Witchcraft and Wizardry
           </mj-text>
           <mj-text mj-class="sub-header">
@@ -219,16 +218,17 @@
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Where did you grow up?</strong>
             <br />
-            In a cuboard under the stairs in Surrey. Ever since my aunt and uncle found out I got into Hogwarts though they've let me have my own room.
+            In a cupboard under the stairs in Surrey. Ever since my aunt and uncle found out I got into Hogwarts though they've let me have my own room.
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">How did you find out you were a wizard?</strong>
             <br />
-            Oh that's a funny story! Hagrid the groundkeeper broke down a door in the middle of night and handed my letter and my birthday cake. My uncle angered him 
+            Oh that's a funny story! Hagrid the groundkeeper broke down a door in the middle of night and handed me my letter and birthday cake. My uncle angered him 
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">What’s your favorite thing about Hogwarts?</strong>
             <br />
+            Quidditch 
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Do you have a pet peeve?</strong>
@@ -238,12 +238,12 @@
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">What’s your favorite class?</strong>
             <br />
-            Muffin gummi bears tart sweet cotton candy <a href="https://goo.gl/maps/d4YsCee5kq8V9Kc38">cupcake</a> jelly beans. Jelly-o soufflé caramels sesame snaps donut jelly fruitcake sesame snaps lemon drops. <a href="https://goo.gl/maps/MmaeDuDoJkVmTSWj8">Jelly-o </a> chocolate tiramisu chupa chups gummies brownie.  
+            I seem to be pretty good at Defense Against the Dark Arts even though our teacher was in cahoots with Voldermort. 
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Tell me a fun fact about you.</strong>
             <br />
-            Liquorice fruitcake tootsie roll toffee. Fruitcake gummi bears jelly beans. Gingerbread pie liquorice chocolate cake jujubes oat cake oat cake tiramisu icing. Gummi bears cake wafer. Croissant caramels sweet roll apple pie wafer halvah jelly pie. Gummies cotton candy sugar plum gingerbread. Marzipan jelly wafer pie chocolate bar cupcake soufflé cake. Sweet roll toffee marshmallow cake powder.
+            Err. Aidunno. Ron Weasley and Hermione Granger are my best friends. 
           </mj-text>
         </mj-column>
       </mj-section>
