@@ -1,7 +1,9 @@
 <mjml>
   <mj-head>
-    <mj-title>MONTH YEAR</mj-title>
+    <mj-title>Sorceror's Stone</mj-title>
     <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-font name="Garamond" href="https://fonts.googleapis.com/css?family=Eb+Garamond" />
+    <mj-font name="Hand" href="https://fonts.googleapis.com/css?family=Just+Another+Hand" />
     <mj-style>
       @media (min-width: 480px) {
         .h1 {
@@ -28,7 +30,7 @@
 
     <!-- Attributes -->
     <mj-attributes>
-      <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" font-weight="400" />
+      <mj-all font-family="Garamond, Helvetica, Arial, sans-serif" font-weight="400" />
 
       <!-- MJML Element Styles  -->
       <mj-section background-color="#fff" padding-top="0px" />
@@ -36,9 +38,9 @@
 
       <!-- Text -->
       <mj-text padding-bottom="0px" font-size="16px" line-height="28px" color="#595959" align="center" />
-      <mj-class name="h1" padding-top="10px" color="#000" font-size="32px" font-weight="600" />
+      <mj-class name="h1" padding-top="10px" color="#000" font-size="32px" font-weight="600" line-height="35px"/>
       <mj-class name="h3" color="#000" font-weight="600" font-size="20px" />
-      <mj-class name="sub-header" color="#999" font-weight="600" padding-bottom="0px" />
+      <mj-class name="sub-header" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
       <mj-class name="text--kudos" font-size="20px" line-height="32px" color="#444" font-weight="300" />
       <mj-class name="text--kudos-signature" padding-bottom="20px" font-size="18px" font-weight="500" color="#444" />
 
@@ -63,7 +65,7 @@
         <mj-column vertical-align="middle">
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-image href="https://www.pottermore.com/" padding-left="0px" width="36px" align="center" alt="Apollo Logo" src="https://via.placeholder.com/36/0e6f82/62aca0?Text=Digital.com" />
+          <mj-image href="https://www.pottermore.com/" padding-left="0px" width="36px" align="center" alt="Apollo Logo" src="https://via.placeholder.com/36/38808F/FCE6BF?Text=Digital.com" />
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" font-size="12px" padding-right="0px">
@@ -87,6 +89,12 @@
       <!-- Start Text Content -->
       <mj-section mj-class="p-t" padding-bottom="36px">
         <mj-column width="550px" mj-class="p-b">
+          <mj-text mj-class="h1" font-family="new">
+            Hogwarts School of Witchcraft and Wizardry
+          </mj-text>
+          <mj-text mj-class="sub-header">
+            A year in review
+          </mj-text>
           <mj-text mj-class="text--kudos">
             “Shout out to <span style="color:#9e54b0; font-weight: bold;">Bacon</span> meatloaf andouille venison fatback leberkas, drumstick alcatra biltong buffalo shankle rump ham hock salami shank turducken.”
           </mj-text>
@@ -106,10 +114,10 @@
             &mdash;Chicken
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “Shout out to <span style="color:#ff9300; font-weight: bold;">Bacon</span>  <span style="color:#ff9300; font-weight: bold;">Bacon</span> ipsum dolor amet brisket drumstick doner beef ribs sausage ham hock flank jerky tenderloin bresaola, <span style="color:#ff9300; font-weight: bold;">Pork</span> chop turkey ham tail pig venison chicken tongue shank prosciutto kevin tenderloin cupim jowl <span style="color:#ff9300; font-weight: bold;">Sausage</span>  bresaola capicola alcatra, chicken corned beef burgdoggen ham hock tri-tip pork belly.”
+            “My father will hear of this”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
-            &mdash;Turkey
+            &mdash;Draco Malfoy
           </mj-text>
         </mj-column>
       </mj-section>
@@ -131,7 +139,7 @@
           <mj-text mj-class="h1" padding-top="5px" padding-bottom="24px">
             Title
           </mj-text>
-          <mj-image alt="UI Kit Updates" width="120px" padding="0" src="https://via.placeholder.com/120px/0e6f82/62aca0" />
+          <mj-image alt="UI Kit Updates" width="120px" padding="0" src="https://via.placeholder.com/120px/38808F/FCE6BF" />
         </mj-column>
       </mj-section>
 
@@ -162,7 +170,7 @@
       <!-- Start Image -->
       <mj-section mj-class="p-tb">
         <mj-column>
-          <mj-image alt="View UI Kit" width="131px" href="https://sketch.cloud/signin" src="https://via.placeholder.com/131/0e6f82/62aca0?Text=Digital.com" />
+          <mj-image alt="View UI Kit" width="131px" href="https://sketch.cloud/signin" src="https://via.placeholder.com/131/38808F/FCE6BF?Text=Digital.com" />
         </mj-column>
       </mj-section>
       <!-- End Image -->
@@ -173,7 +181,7 @@
           <mj-table padding="5px 7px" line-height="1px" width="100%" color="#595959">
             <tr align="center">
               <td>
-                <img alt="DJ Avatar" width="32px" src="https://via.placeholder.com/32px/0e6f82/62aca0" />
+                <img alt="DJ Avatar" width="32px" src="https://via.placeholder.com/32px/38808F/FCE6BF" />
               </td>
               <td>
                 &nbsp;&nbsp;Contact <a href="mailto:PERSON@DOMAIN.COM"><strong>Bacon</strong></a> for more info
@@ -201,7 +209,7 @@
           <mj-text mj-class="sub-header">
             Get to know
           </mj-text>
-          <mj-image alt="Ryan Avatar" width="120px" src="https://via.placeholder.com/120px/0e6f82/62aca0" />
+          <mj-image alt="Ryan Avatar" width="120px" src="https://via.placeholder.com/120px/38808F/FCE6BF" />
           <mj-text mj-class="h1" padding-bottom="0px">
             Gumdrop
           </mj-text>
@@ -271,7 +279,7 @@
           <mj-text color="#000" font-weight="500" padding="35px 110px 0px">
             Have feedback or something to share in the next newsletter?
           </mj-text>
-          <mj-image src="https://via.placeholder.com/125x50/0e6f82/62aca0" href="mailto:PERSON@DOMAIN.com" alt="Let us know" width="125px" />
+          <mj-image src="https://via.placeholder.com/125x50/38808F/FCE6BF" href="mailto:PERSON@DOMAIN.com" alt="Let us know" width="125px" />
           <mj-spacer height="5px"></mj-spacer> 
         </mj-column> <!-- Button End -->
       </mj-section>
@@ -280,7 +288,7 @@
     <mj-wrapper>
       <mj-section padding-top="15px" background-color="#f8f9fb">
         <mj-column>
-          <mj-image href="" width="100px" alt="Logo" src="https://via.placeholder.com/100px/0e6f82/62aca0" />
+          <mj-image href="" width="100px" alt="Logo" src="https://via.placeholder.com/100px/38808F/FCE6BF" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
