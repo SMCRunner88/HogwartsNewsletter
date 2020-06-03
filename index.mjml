@@ -38,7 +38,7 @@
       <mj-divider padding="0" width="100%" border-width="1px" border-style="solid" border-color="#e9e9e9" />
 
       <!-- Text -->
-      <mj-text padding-bottom="0px" font-size="16px" line-height="28px" color="#595959" align="center" />
+      <mj-text padding-bottom="0px" font-family="Hand, Helvetica, Arial, sans-serif" font-size="14px" line-height="28px" color="#595959" align="center" />
       <mj-class name="h1" font-family="Garamond" padding-top="10px" color="#000" font-size="32px" font-weight="400" line-height="35px"/>
       <mj-class name="h3" color="#000" font-weight="400" font-size="20px" />
       <mj-class name="sub-header" font-family="Garamond" color="#999" font-weight="600" font-family="Hand" font-size="23px" padding-bottom="0px" />
@@ -94,25 +94,31 @@
             Hogwarts School of Witchcraft and Wizardry
           </mj-text>
           <mj-text mj-class="sub-header">
-            A year in review
+            Words of wisdom
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “Shout out to <span style="color:#9e54b0; font-weight: bold;">Bacon</span> meatloaf andouille venison fatback leberkas, drumstick alcatra biltong buffalo shankle rump ham hock salami shank turducken.”
+            “It takes a great deal of <span style="color:#9e54b0; font-weight: bold;">bravery</span> to stand up to our enemies, but just as much to stand up to our friends.”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
-            &mdash;Pidgeon
+            &mdash;Nitwit
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “Shout out to <span style="color:#0768fd; font-weight: bold;">Bacon</span> kielbasa pastrami turducken pork filet mignon hamburger turkey alcatra, ham hock leberkas cow tri-tip capicola.”
+            “It does not do to dwell on dreams and forget to <span style="color:#0768fd; font-weight: bold;">live</span>”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
-            &mdash;Dog
+            &mdash;Blubber
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “Shout out to <span style="color:#df216d; font-weight: bold;">Bacon</span> and <span style="color:#df216d; font-weight: bold;">Pork</span> pork belly short ribs tri-tip buffalo chuck cow shankle meatloaf cupim strip steak rump beef ribs.”
+            “I can teach you how to bottle <span style="color:#df216d; font-weight: bold;">fame</span>, brew <span style="color:#df216d; font-weight: bold;">glory</span>, even put a stopper on death.”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
-            &mdash;Chicken
+            &mdash;Oddment
+          </mj-text>
+          <mj-text mj-class="text--kudos">
+            “To the well-organized mind, death is but the next great <span style="color:#9e54b0; font-weight: bold;">adventure</span>.
+          </mj-text>
+          <mj-text mj-class="text--kudos-signature">
+            &mdash;Tweak!
           </mj-text>
           <mj-text mj-class="text--kudos">
             “My father will hear of this”
@@ -135,26 +141,29 @@
       <mj-section padding-top="25px" padding-bottom="0px">
         <mj-column>
           <mj-text mj-class="sub-header">
-            Defense Against the Dark Arts
+            Fantastic Beasts Feature
           </mj-text>
           <mj-text mj-class="h1" padding-top="5px" padding-bottom="24px">
              Mountain Trolls
           </mj-text>
-          <mj-image alt="Trolls" width="150px" border-radius="100px" padding="0" src="https://vignette.wikia.nocookie.net/harrypotter/images/7/71/Troll-pottermore.png/revision/latest?cb=20120510142205" />
+          <mj-image alt="Trolls" width="120px" border-radius="100px" padding="0" src="./assets/Troll-pottermore.png" />
         </mj-column>
       </mj-section>
 
       <!-- Start Text Content -->
       <mj-section mj-class="p-tb">
-        <mj-column>
+        <mj-column width="550px">
           <mj-text mj-class="h3">
-            Updates
+            Troglodytarum
           </mj-text>
           <mj-text mj-class="p-t">
-            Updates Subheader
+            Beast
           </mj-text>
-          <mj-text align="center">
-            
+          <mj-text align="left">
+            A troll is a magical beast of prodigious strength and immense stupidity. In fact, they are so synonymous with stupidity that they actually have a wizarding exam failing grade named after them.            
+          </mj-text>
+          <mj-text align="left">
+            Trolls generally reach a height of about twelve feet and weigh up to a tonne. Troll whiskers have magical properties, and are sometimes used as wand cores. Their feet have two toes, both with giant toenails.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -171,11 +180,11 @@
 
       <!-- Start Contact -->
       <mj-section padding-bottom="40px" text-align="center">
-        <mj-column border-radius="25.5px" background-color="#f8f9fb" width="50%" vertical-align="middle">
+        <mj-column border-radius="25.5px" background-color="#f8f9fb" width="49.5%" vertical-align="middle">
           <mj-table padding="5px 7px" line-height="1px" width="100%" color="#595959">
             <tr align="center">
               <td height="32px">
-                &nbsp;&nbsp;Check out <a href="https://harrypotter.fandom.com/wiki/Troll"><strong>Harry Potter Fandom</strong></a> for more info
+                &nbsp;&nbsp;Check out the <a href="https://harrypotter.fandom.com/wiki/Troll"><strong>HP Fandom</strong></a> for more info
               </td>
             </tr>
           </mj-table>
@@ -198,7 +207,7 @@
           <mj-text mj-class="sub-header">
             Get to know
           </mj-text>
-          <mj-image alt="Ryan Avatar" width="120px" src="https://via.placeholder.com/120px/38808F/FCE6BF" />
+          <mj-image alt="Harry baby" width="120px" src="./assets/the-boy-who-lived.jpg" />
           <mj-text mj-class="h1" padding-bottom="0px">
             The Boy Who Lived
           </mj-text>
@@ -265,7 +274,7 @@
 
       <mj-section padding-bottom="40px">
         <mj-column width="520px" background-color="#f8f9fb">
-          <mj-text color="#000" font-weight="500" padding="35px 110px 0px">
+          <mj-text color="#000" font-weight="500" padding="20px 110px 0px">
             Have feedback or want to collaborate?
           </mj-text>
           <mj-button href="mailto:scott.madison.cook@gmail.com" font-family="Helvetica" background-color="#38808F" color="white">
