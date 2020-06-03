@@ -11,14 +11,14 @@
           line-height: 42px;
         }
       }
-
       a {
         color: #0768fd;
         font-weight: bold;
         text-decoration: none;
       }
-      style="color:#0768fd;"
+      a:hover {
 
+      }
       h3 {
         color: #000;
         font-size: 20px;
@@ -140,7 +140,7 @@
           <mj-text mj-class="h1" padding-top="5px" padding-bottom="24px">
              Mountain Trolls
           </mj-text>
-          <mj-image alt="UI Kit Updates" width="150px" padding="0" src="https://vignette.wikia.nocookie.net/harrypotter/images/b/ba/Mountain_Troll.png/revision/latest?cb=20161129174923" />
+          <mj-image alt="Trolls" width="150px" border-radius="100px" padding="0" src="https://vignette.wikia.nocookie.net/harrypotter/images/7/71/Troll-pottermore.png/revision/latest?cb=20120510142205" />
         </mj-column>
       </mj-section>
 
@@ -164,21 +164,18 @@
       <!-- Start Image -->
       <mj-section mj-class="p-tb">
         <mj-column>
-          <mj-image alt="View UI Kit" width="131px" href="https://via.placeholder.com/131/38808F/FCE6BF" />
+          <mj-image alt="" width="131px" href="https://via.placeholder.com/131/38808F/FCE6BF" />
         </mj-column>
       </mj-section>
       <!-- End Image -->
 
       <!-- Start Contact -->
       <mj-section padding-bottom="40px" text-align="center">
-        <mj-column border-radius="25.5px" background-color="#f8f9fb" width="35%" vertical-align="middle">
+        <mj-column border-radius="25.5px" background-color="#f8f9fb" width="50%" vertical-align="middle">
           <mj-table padding="5px 7px" line-height="1px" width="100%" color="#595959">
             <tr align="center">
-              <td>
-                <img alt="DJ Avatar" width="32px" src="https://via.placeholder.com/32px/38808F/FCE6BF" />
-              </td>
-              <td>
-                &nbsp;&nbsp;Contact <a href="mailto:PERSON@DOMAIN.COM"><strong>Bacon</strong></a> for more info
+              <td height="32px">
+                &nbsp;&nbsp;Check out <a href="https://harrypotter.fandom.com/wiki/Troll"><strong>Harry Potter Fandom</strong></a> for more info
               </td>
             </tr>
           </mj-table>
@@ -238,7 +235,7 @@
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">What’s your favorite class?</strong>
             <br />
-            I seem to be pretty good at Defense Against the Dark Arts even though our teacher was in cahoots with Voldermort. 
+            
           </mj-text>
           <mj-text align="left" padding-bottom="15px">
             <strong style="color:#000; font-weight: 600;">Tell me a fun fact about you.</strong>
@@ -251,14 +248,14 @@
       <mj-section mj-class="p-t">
         <mj-column width="520px">
           <mj-text padding-top="20px" color="#000" font-weight="600">
-            Connect with HP
+            Connect with me
           </mj-text>
           <mj-social font-size="15px" icon-size="32px" mode="horizontal">
-            <mj-social-element name="instagram" href="">
+            <mj-social-element name="instagram" href="https://www.instagram.com/itsmescottiec/">
             </mj-social-element>
-            <mj-social-element name="linkedin" href="">
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/in/scott-cook/">
             </mj-social-element>
-            <mj-social-element src="https://d1deew00zd4rt0.cloudfront.net/internal/may-2019/vimeo.jpg" href="">
+            <mj-social-element name="twitter" href="https://twitter.com/itsmescottiec">
             </mj-social-element>
           </mj-social>
           <mj-spacer height="5px"></mj-spacer>
@@ -269,9 +266,11 @@
       <mj-section padding-bottom="40px">
         <mj-column width="520px" background-color="#f8f9fb">
           <mj-text color="#000" font-weight="500" padding="35px 110px 0px">
-            Have feedback or something to share in the next newsletter?
+            Have feedback or want to collaborate?
           </mj-text>
-          <mj-image src="https://via.placeholder.com/125x50/38808F/FCE6BF" href="mailto:PERSON@DOMAIN.com" alt="Let us know" width="125px" />
+          <mj-button href="mailto:scott.madison.cook@gmail.com" font-family="Helvetica" background-color="#38808F" color="white">
+            Send feedback
+         </mj-button>
           <mj-spacer height="5px"></mj-spacer> 
         </mj-column> <!-- Button End -->
       </mj-section>
@@ -280,7 +279,6 @@
     <mj-wrapper>
       <mj-section padding-top="15px" background-color="#f8f9fb">
         <mj-column>
-          <mj-image href="" width="100px" alt="Logo" src="https://via.placeholder.com/100px/38808F/FCE6BF" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
