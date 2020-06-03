@@ -113,7 +113,7 @@
             &mdash;Oddment
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “To the well-organized mind, death is but the next great <span style="color:#9e54b0; font-weight: bold;">adventure</span>.
+            “To the well-organized mind, death is but the next great <span style="color:#9e54b0; font-weight: bold;">adventure</span>.”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
             &mdash;Tweak!
@@ -265,7 +265,7 @@
           <mj-text color="#000" font-weight="500" padding="20px 110px 0px">
             Have feedback or want to collaborate?
           </mj-text>
-          <mj-button href="mailto:scott.madison.cook@gmail.com" font-family="Helvetica" background-color="#38808F" color="white">
+          <mj-button href="mailto:scott.madison.cook@gmail.com" background-color="#38808F"  color="white">
             Send feedback
          </mj-button>
           <mj-spacer height="5px"></mj-spacer> 
