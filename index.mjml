@@ -2,9 +2,7 @@
   <mj-head>
     <mj-title>Sorceror's Stone</mj-title>
     <mj-font name="Garamond" href="https://fonts.googleapis.com/css?family=Eb+Garamond" />
-    <mj-font name="Hand" href="https://fonts.googleapis.com/css?family=Just+Another+Hand" />
-    <mj-font name="Magorian" href="https://fonts.googleapis.com/css?family=Average" />
-    
+    <mj-font name="Hand" href="https://fonts.googleapis.com/css?family=Just+Another+Hand" />    
     <mj-style>
       @media (min-width: 480px) {
         .h1 {
@@ -12,7 +10,7 @@
         }
       }
       a {
-        color: #0768fd;
+        color: #18cfee;
         font-weight: bold;
         text-decoration: none;
       }
@@ -103,13 +101,13 @@
             &mdash;Nitwit
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “It does not do to dwell on dreams and forget to <span style="color:#0768fd; font-weight: bold;">live</span>”
+            “It does not do to dwell on dreams and forget to <span style="color:#505354; font-weight: bold;">live</span>”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
             &mdash;Blubber
           </mj-text>
           <mj-text mj-class="text--kudos">
-            “I can teach you how to bottle <span style="color:#df216d; font-weight: bold;">fame</span>, brew <span style="color:#df216d; font-weight: bold;">glory</span>, even put a stopper on death.”
+            “I can teach you how to bottle <span style="color:#10c3e2; font-weight: bold;">fame</span>, brew <span style="color:#10c3e2; font-weight: bold;">glory</span>, even put a stopper on death.”
           </mj-text>
           <mj-text mj-class="text--kudos-signature">
             &mdash;Oddment
